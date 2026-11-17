@@ -4,7 +4,7 @@ import BooksImg from "@/assets/image 2.png";
 import ComputerScienceImg from "@/assets/computer science.png";
 import MathematicsImg from "@/assets/Mathec.png";
 import LiteratureImg from "@/assets/literature.png";
-import HistoryImg from "@/assets/history.png"; // Added History category asset import
+import HistoryImg from "@/assets/History.png"; // Added History category asset import
 import InfoTechImg from "@/assets/information T.png";
 import AlgoImg from "@/assets/Algo.png";
 import JavaOopImg from "@/assets/java oop.png";
